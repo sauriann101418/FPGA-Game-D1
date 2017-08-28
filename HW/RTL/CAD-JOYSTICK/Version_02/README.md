@@ -1,24 +1,27 @@
-Integrantes del equipo de trabajo: (Ver ejemplo del bloque multiplicadores)
+# Bluetooth
 
-1 Nombre 1 nombre 2  apelido 1 apellido 2  correo electronico
-2 Nombre 1 nombre 2  apelido 1 apellido 2  correo electronico
-3 Nombre 1 nombre 2  apelido 1 apellido 2  correo electronico
+## Integrantes del equipo de trabajo:
 
-Descripción gemeral del sistema:
+### 1 Nombre1 nombre2  apelido1 apellido2  correo@electronico
+### 2 Nombre1 nombre2  apelido1 apellido2  correo@electronico
+### 3 Nombre1 nombre2  apelido1 apellido2  correo@electronico
+
+
+## Descripción general del sistema:
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-Descripción de la caja Funcional  (in/out)
+## Descripción de la caja Funcional  (in/out)
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-Descripcion funcional:
+## Descripción funcional:
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
-Descripcion Estructural
+## Descripción Estructural
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
