@@ -10,7 +10,7 @@ El algoritmo de multiplicación que se implementa se basa en productos parciales 
 A continuación se realiza la multiplicación del siguiente bit (a la izquierda del LSB) y el resultado se suma al producto parcial pero corrido un bit a la izquierda.
 Este proceso continua hasta completar todos los bits del multiplicador y el último producto parcial es el resultado final. 
 
-![](https://github.com/Fabeltranm/FPGA-Game-D1/blob/master/HW/RTL/MULTIPLICADOR/Version_01/03%20document/img/imagen1.png)
+![](https://github.com/Fabeltranm/FPGA-Game-D1/blob/master/HW/RTL/00MULTIPLICADOR%20(ejemplo)/Version_01/03%20document/img/imagen1.png)
 
 
 ## Descripción de la caja Funcional  (in/out)
