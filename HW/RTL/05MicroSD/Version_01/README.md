@@ -30,7 +30,6 @@ La prioridad o esencia del del sistema es la **Solicitud de Control** y la **Sol
 
 
 
-
 ## Descripción funcional:
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
